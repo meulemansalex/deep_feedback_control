@@ -1,4 +1,8 @@
 # Credit Assignment in Neural Networks through Deep Feedback Control
+**Update:** There is a new version of the code base available [here](https://github.com/mariacer/strong_dfc), which 
+incorporates both the code for DFC from the paper "Credit Assignment in Neural Networks through Deep Feedback 
+Control", and the code for Strong-DFC from the paper "Minimizing Control for Credit Assignment with Strong Feedback".
+
 This repository is the official implementation of the NeurIPS 2021 submission 
 "Credit Assignment in Neural Networks through Deep Feedback Control".
 
